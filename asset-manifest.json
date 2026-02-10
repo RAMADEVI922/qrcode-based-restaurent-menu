@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/qrcode-based-restaurent-menu/static/css/main.f4581607.css",
+    "main.js": "/qrcode-based-restaurent-menu/static/js/main.c40e982b.js",
+    "static/js/453.0b3566ad.chunk.js": "/qrcode-based-restaurent-menu/static/js/453.0b3566ad.chunk.js",
+    "static/media/QRMenuPic.png": "/qrcode-based-restaurent-menu/static/media/QRMenuPic.a24c5e4bd6374df4a772.png",
+    "static/media/tableIcon.png": "/qrcode-based-restaurent-menu/static/media/tableIcon.392fe644c4f26778b064.png",
+    "static/media/menuIcon.png": "/qrcode-based-restaurent-menu/static/media/menuIcon.b5e8dcd4bdaca2b344ee.png",
+    "static/media/billIcon.png": "/qrcode-based-restaurent-menu/static/media/billIcon.da141a8d85bc51fd28f7.png",
+    "static/media/Loginicon.png": "/qrcode-based-restaurent-menu/static/media/Loginicon.8b442d1a0e5bb5af4e35.png",
+    "index.html": "/qrcode-based-restaurent-menu/index.html",
+    "main.f4581607.css.map": "/qrcode-based-restaurent-menu/static/css/main.f4581607.css.map",
+    "main.c40e982b.js.map": "/qrcode-based-restaurent-menu/static/js/main.c40e982b.js.map",
+    "453.0b3566ad.chunk.js.map": "/qrcode-based-restaurent-menu/static/js/453.0b3566ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4581607.css",
+    "static/js/main.c40e982b.js"
+  ]
+}
